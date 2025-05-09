@@ -6,6 +6,8 @@ A modern, dark-themed portfolio page built with React, Vite, and Tailwind CSS.
 - Dark, minimalist design
 - Responsive layout
 - Easy to customize
+- as a devloper the portfolio page to represent you is very important and this page represents me what i am currently doing in my life and running withe resources i have achived till now
+  
 
 ## Getting Started
 
